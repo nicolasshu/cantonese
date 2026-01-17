@@ -22,6 +22,7 @@ theme:
 
 nav:
   - Peppa Pig: peppa_pig/home.md
+  - Music: music/home.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
