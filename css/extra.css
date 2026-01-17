@@ -1,0 +1,32 @@
+.underbrace-container {
+    display: flex;
+    gap: 1em; /* space between multiple characters */
+}
+
+.underbrace-item {
+    display: inline-block;
+    text-align: center;
+}
+
+.underbrace-item .char {
+    display: block;
+    position: relative;
+    /* line above meaning */
+    margin-bottom: 0.2em; /* spacing between line and English text */
+}
+
+.underbrace-item .char::after {
+    content: '';
+    display: block;
+    border-bottom: 1px solid black;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.underbrace-item .meaning {
+    display: block;
+    font-size: 0.85em;
+}
+
