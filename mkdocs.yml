@@ -26,10 +26,22 @@ nav:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: underbrace
+          class: underbrace
+          format: !!python/name:builtins.str
+
 plugins:
   - search
+extra_css:
+  - css/extra.css
+
 extra_javascript:
+  - javascripts/extra.js
   - javascripts/math.js
+  - javascripts/underbrace.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
