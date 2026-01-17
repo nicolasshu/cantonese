@@ -26,7 +26,6 @@ nav:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
-  - admonition
   - pymdownx.superfences:
       custom_fences:
         - name: underbrace
