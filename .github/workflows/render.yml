@@ -25,8 +25,8 @@ jobs:
           python-version: ${{ env.python_ver }}
       - name: Install deployment dependencies
         run: |
-          apt update -y
-          apt install -y git
+          sudo apt update -y
+          sudo apt install -y git
           python -m pip install \
             mkdocs
             mkdocs-material
