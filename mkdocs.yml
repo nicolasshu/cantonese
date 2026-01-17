@@ -35,6 +35,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - graph:
+      debug: false
+
 extra_css:
   - css/extra.css
 
