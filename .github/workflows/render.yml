@@ -1,0 +1,41 @@
+name: render
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+permissions:
+  contents: write
+  pages: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      python_ver: "3.11"
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.python_ver }}
+      - name: Install deployment dependencies
+        run: |
+          apt update -y
+          apt install -y git
+          python -m pip install \
+            mkdocs
+            mkdocs-material
+            mkdocs-network-graph-plugin
+      - name: Build MkDocs site
+        run: mkdocs build --clean --verbose
+      - name: Deploy MkDocs site
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == "refs/heads/main"
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
