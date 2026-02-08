@@ -21,8 +21,10 @@ theme:
         name: Swithch to Dark Mode
 
 nav:
-  - Peppa Pig: peppa_pig/home.md
+  - Peppa Pig:
+    - peppa_pig/home.md
   - Music: music/home.md
+  - Contributing: contributing.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

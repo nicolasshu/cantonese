@@ -1,6 +1,6 @@
 # Notes for Cantonese
 
-## Helpful
+## Jyut Ping Supertitles
 
 It may be helpful to install the [Inject Jyutping](https://github.com/CanCLID/inject-jyutping) extension. Depending on the type of browser you're using, you may use the appropriate extension to see the Jyutping on the text.
 
@@ -11,22 +11,6 @@ It may be helpful to install the [Inject Jyutping](https://github.com/CanCLID/in
 
 I'm pretty much just putting dialogs from episodes or other notes.
 
-## Note Blocks
+### TV Shows
 
-You may add note blocks via
-
-```
-::: underbrace
-我 | I
-叫 | called
-做 | (emphasis)
-:::
-```
-
-which will be rendered as 
-
-![](./assets/example.png)
-
-## Tools Used
-
-For this repository, I'm using [MkDocs](https://www.mkdocs.org/) to render the information in the Markdown files. I'm using the [Material](https://squidfunk.github.io/mkdocs-material/) theme.
+- [Peppa Pig](./peppa_pig/home.md)
