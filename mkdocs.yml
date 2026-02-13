@@ -24,6 +24,7 @@ nav:
   - Peppa Pig:
     - peppa_pig/home.md
   - Music: music/home.md
+  - Classifiers: classifiers.md
   - Contributing: contributing.md
 
 markdown_extensions:
@@ -34,6 +35,7 @@ markdown_extensions:
         - name: underbrace
           class: underbrace
           format: !!python/name:builtins.str
+  - neoteroi.spantable
 
 plugins:
   - search
@@ -42,6 +44,7 @@ plugins:
 
 extra_css:
   - css/extra.css
+  - css/neoteroi-mkdocs-v1.2.0.css
 
 extra_javascript:
   - javascripts/extra.js
