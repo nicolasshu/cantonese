@@ -4,8 +4,6 @@ title: Best Friend [最好的朋友]
 
 [YouTube Link: https://www.youtube.com/watch?v=VNTnLUmKDag](https://www.youtube.com/watch?v=VNTnLUmKDag)
 
-[Answers](./s01e03_answers.md)
-
 ## Introduction
 
 我叫做Peppa

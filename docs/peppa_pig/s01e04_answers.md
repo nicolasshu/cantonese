@@ -4,8 +4,6 @@ title: Polly Parrot［鸚鵡Polly］
 
 [YouTube Link: https://www.youtube.com/watch?v=d-lN9N4Xv2Y](https://www.youtube.com/watch?v=d-lN9N4Xv2Y)
 
-[Answers](./s01e04_answers.md)
-
 ## Introduction
 
 Peppa: 我叫做Peppa
