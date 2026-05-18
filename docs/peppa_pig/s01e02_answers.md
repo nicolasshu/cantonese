@@ -501,7 +501,6 @@ Narrator: 恐龍先生亦都唔喺George張牀度喎
 恐龍先生
 亦都 | also
 唔喺George張牀度喎
-
 :::
 
 
@@ -640,6 +639,25 @@ Peppa.
 :::
 
 > This is similar to "rhinocerous" (犀牛), where 犀 shows that the hide is really thick. Then 利 means "sharp". So 犀利 means that it is sharp enough to pierce through something really thick.
+
+> The word 嘅 can be also used for different scenarios. For example
+
+> ::: underbrace
+肥嘅老人 | fat old man
+-->
+(肥 | fat (adj)
+嘅 | (possessive)
+老人) | old man (noun)
+:::
+
+> ::: underbrace
+老人嘅肥 | old man's fat
+-->
+(老人 | old man (noun)
+嘅 | (possessive)
+肥) | fat (noun)
+:::
+
 
 (Dad gets toy from tree branch)
 

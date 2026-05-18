@@ -21,209 +21,424 @@ Peppa: 我係Peppa
 (Family is arriving at house by car, and grandparents come to welcome them at the door)
 
 Narrator: Peppa同屋企人嚟探豬嫲嫲同豬爺爺喎
-<br><br><br>
+
+> ::: underbrace
+Peppa同
+屋企人 | family
+嚟 | come
+探 | visit
+:::
+
+> ::: underbrace
+豬
+嫲嫲 | grandma (paternal)
+同
+豬
+爺爺 | grandpa (paternal)
+喎
+:::
 
 Peppa: 嫲嫲！爺爺！
-<br><br><br>
 
 George: 嫲嫲！爺爺！
-<br><br><br>
 
 Grandma: 我可愛嘅孫仔孫女
-<br><br><br>
+
+> ::: underbrace
+我
+可愛 | lovable
+嘅
+孫仔 | grandson
+孫女 | granddaughter
+:::
 
 Grandma: 入嚟啦，我哋有驚喜啊
-<br><br><br>
+
+> ::: underbrace
+入嚟 | Come enter
+啦，我哋有
+驚喜 | surprise
+啊
+:::
 
 Peppa: 嘩，係咩嚟㗎？
-<br><br><br>
+
+> ::: underbrace
+嘩，
+係 | is
+咩 | what
+嚟 | it
+㗎？
+:::
 
 Grandma: 我哋有隻新寵物. 你哋估下係咩嘢吖.
-<br><br><br>
+
+> ::: underbrace
+我哋有
+隻 | (counter)
+新 | new
+寵物 | pet
+(寵 | to love (classical Chinese)
+物). | thing
+:::
+
+> ::: underbrace
+你哋
+估下 | guess
+係咩嘢吖.
+:::
 
 George: 恐龍？
-<br><br><br>
+
+> ::: underbrace
+恐龍？| Dinosaur?
+:::
 
 Grandpa: 唔係啊，我哋隻寵物唔係恐龍啊
-<br><br><br>
 
 Grandpa: 入嚟睇下吖
-<br><br><br>
+
+> ::: underbrace
+入嚟
+睇 | look
+下 | down
+吖
+:::
 
 (Everyone enter the house)
 
 Narrator: 豬嫲嫲同豬爺爺養咗隻鸚鵡啊
-<br><br><br>
+
+> ::: underbrace
+豬嫲嫲同豬爺爺
+養咗 | raise
+隻
+鸚鵡 | parrot
+啊
+:::
 
 Grandma: Peppa, George. 佢係我哋養嘅鸚鵡. 
-<br><br><br>
 
 Grandma: 佢個名叫Polly
-<br><br><br>
+
+> ::: underbrace
+佢個
+名叫 | name
+Polly
+:::
 
 (Grandma says to parrot:)
 
 Grandma: 靚靚Polly
-<br><br><br>
+
+> ::: underbrace
+靚 | pretty
+靚
+Polly
+:::
 
 Polly: 靚靚Polly！
-<br><br><br>
 
 Grandma: 我呢隻鸚鵡好聰明㗎
-<br><br><br>
+
+> ::: underbrace
+我呢隻鸚鵡 | This parrot of mine
+(呢隻) | (adds emphasis)
+好
+聰明 | smart
+㗎
+:::
 
 Parrot: 我呢隻鸚鵡好聰明！
-<br><br><br>
 
 (Kids laugh)
 
 Peppa: 媽咪，點解嫲嫲講咩Polly就跟住講咩𠸏？
-<br><br><br>
+
+> ::: underbrace
+媽咪，點解
+嫲嫲
+講咩 | say what (see below)
+Polly
+:::
+
+> ::: underbrace
+就 | just/then
+跟住 | follow
+講咩 | (see below)
+𠸏？
+:::
+
+> In the sentence below, the verb can be substituted
+>
+> 點解 (Subject) (verb) Polly就跟住 (verb) 𠸏？
 
 Mom: 鸚鵡係噉樣㗎. 試畀你睇吖.
-<br><br><br>
+
+> ::: underbrace
+鸚鵡
+係
+噉樣 | like this
+(噉
+樣) | from 點樣
+㗎. 
+:::
+
+> ::: underbrace
+試畀你睇吖 | I'll try to let you see
+(試 | try
+畀 | give
+你
+睇 | see
+吖).
+:::
 
 (Mom says to parrot)
 
 Mom: 你好啊，Polly
-<br><br><br>
 
-你好，Polly！
-<br><br><br>
+Polly: 你好，Polly！
 
 Grandma: 呢隻鸚鵡好聰明啊
-<br><br><br>
 
-Grandma: 呢隻鸚鵡好聰明啊！
-<br><br><br>
+Polly: 呢隻鸚鵡好聰明啊！
 
 (Everyone laughs. Adults proceed to leave the living room)
 
 Grandma: 嚟啦，咁多位，食茶點喇
-<br><br><br>
+
+> ::: underbrace
+嚟啦，
+咁多位| everybody
+(咁 | so
+多 | many
+位)，| body
+食茶點喇
+:::
 
 Grandma: Peppa、George，嚟啦. 有朱古力蛋糕啊.
-<br><br><br>
+
+> ::: underbrace
+Peppa、George，嚟啦. 有
+朱古力
+蛋糕 | cake
+啊.
+:::
 
 Peppa: 嚟喇，嫲嫲！
-<br><br><br>
 
 (Peppa and George leave the living room. Now they are in the kitchen eating chocolate cake)
 
 Narrator: Peppa同George好鍾意食朱古力蛋糕
-<br><br><br>
 
 Narrator: 但係今日，佢哋好想食快啲再同鸚鵡Polly玩啊
-<br><br><br>
+
+> ::: underbrace
+但係
+今日，
+佢哋好想食
+快啲 | fastly
+再同 | again with
+鸚鵡
+Polly
+玩啊
+:::
 
 (Peppa drinks her juice)
 
 Peppa: 食完喇！
-<br><br><br>
+
+> ::: underbrace
+食完喇！| I'm done eating
+:::
 
 (George also finishes his juice. Grandma laughs)
 
 Grandma: 你哋食嘢真係好大聲啊
-<br><br><br>
+
+> ::: underbrace
+你哋食
+嘢 | things
+真係 | really is
+好大聲 | loud sound
+(聲) | sound
+啊
+:::
 
 Peppa: 嫲嫲，我哋可以離開個位
-<br><br><br>
+
+> ::: underbrace
+嫲嫲，我哋可以
+離開 | leave
+個
+位 | body / place
+:::
 
 Peppa: 過去同鸚鵡Polly玩嗎？
-<br><br><br>
+
+> ::: underbrace
+過去 | Go over
+(過) | cross over
+同鸚鵡Polly玩嗎？
+:::
 
 Grandma: 妳肯定妳已經食晒個蛋糕嗱？
-<br><br><br>
+
+> ::: underbrace
+妳
+肯定 | definitely
+妳
+已經 | already
+食晒 | eat everything
+個蛋糕嗱？
+:::
 
 Grandma: 噉你哋去啦
-<br><br><br>
+
+> ::: underbrace
+噉 | Then
+你哋去啦
+:::
 
 Peppa: 好嘢！
-<br><br><br>
 
 (Peppa and George leave the kitchen back to the living room where they find Polly)
 
 Peppa: George同Polly講啲嘢啦
-<br><br><br>
+
+> ::: underbrace
+George同Polly講啲嘢啦 | (Imperative) Say something to Polly
+:::
 
 (George goes hide behind Peppa)
 
 Narrator: George有啲怕醜喎
-<br><br><br>
+
+> ::: underbrace
+George有啲
+怕醜 | shy
+(怕 | scared
+醜) | ugly
+喎
+:::
 
 (George slide pushes Peppa to be closer to Polly)
 
 Peppa: 你好
-<br><br><br>
 
 Polly: 你好
-<br><br><br>
 
 (The kids start laughing and then Polly starts imitaing their laugh)
 
 Narrator: Peppa同George好享受同Polly一齊玩啊
-<br><br><br>
+
+> ::: underbrace
+Peppa同George
+好
+享受 | enjoy
+同Polly
+一齊 | together
+玩啊
+:::
 
 Peppa: 我叫做Peppa
-<br><br><br>
 
 Polly: 我叫做Peppa！
-<br><br><br>
 
 Peppa: George，你都講啲嘢吖
-<br><br><br>
 
 (Peppa and George switch places, where George is now closer the parrot. George snorted at Polly and she imitated George. The kids crack up laughing)
 
 Narrator: Peppa同George喺度扮緊鸚鵡喎
-<br><br><br>
+
+> ::: underbrace
+Peppa同George喺度
+扮緊 | pretending
+(扮 | pretend
+緊) | (-ing)
+鸚鵡喎
+:::
 
 Peppa: 我係鸚鵡Polly
-<br><br><br>
 
 Narrator: Peppa喺度諗緊應該對Polly講啲咩好呢
-<br><br><br>
+
+> ::: underbrace
+Peppa喺度諗緊應該對Polly講啲咩好呢 | Peppa is thinking what she should say to Polly
+:::
+
+> ::: underbrace
+Peppa喺度
+諗緊 | thinking
+應該 | should
+對 | facing
+Polly
+講啲咩 | say something
+好呢 | good
+:::
+
 
 Peppa: 我係隻多嘴嘅鸚鵡
-<br><br><br>
+
+> ::: underbrace
+我係隻多嘴嘅鸚鵡 | I'm a chatty parrot
+:::
+
+> ::: underbrace
+我係隻
+多嘴 | mouthy / chatty
+嘅鸚鵡
+:::
 
 (Peppa snorts)
 
 Polly: 我係隻多嘴嘅鸚鵡！
-<br><br><br>
 
 (Polly snorts, and all kids proceed to laugh. All adults enter the living room)
 
 
-Mom: Peppa、George
-<br><br><br>
-
-Mom: 你哋同Polly玩緊呀？
-<br><br><br>
+Grandma: Peppa、George. 你哋同Polly玩緊呀？
 
 Peppa: 係啊，嫲嫲
-<br><br><br>
 
-Mom: Polly真係一隻好乖嘅鸚鵡啊
-<br><br><br>
+Grandma: Polly真係一隻好乖嘅鸚鵡啊
+
+> ::: underbrace
+Polly
+真係 | really is
+一隻
+好乖 | well behaved
+嘅 | *
+鸚鵡
+啊
+:::
 
 Peppa: 係啊，嫲嫲
-<br><br><br>
 
-Mom: 我係隻聰明嘅鸚鵡
-<br><br><br>
+Grandma: 我係隻聰明嘅鸚鵡
+
+> ::: underbrace
+我係隻
+聰明 | smart
+(聰 | smart
+明) | bright
+嘅鸚鵡
+:::
 
 Polly: 我係隻多嘴嘅鸚鵡！
-<br><br><br>
-
-Polly: 我係隻多嘴嘅鸚鵡！
-<br><br><br>
 
 Grandpa: 噉𠸏？
-<br><br><br>
+
+> ::: underbrace
+噉𠸏？| Why is it so?
+:::
 
 Grandma: 唉吔，點解會噉㗎？
-<br><br><br>
+
+> ::: underbrace
+唉吔，
+點解會噉㗎？| How come it's like that?
+:::
 
 (Grandpa snorts. Grandma snorts. Everyone snorts)
 
