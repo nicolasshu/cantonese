@@ -24,6 +24,7 @@ nav:
   - Peppa Pig:
     - peppa_pig/home.md
   - Music: music/home.md
+  - Poems: poems/poems_for_2026.md
   - Classifiers: classifiers.md
   - Contributing: contributing.md
 
